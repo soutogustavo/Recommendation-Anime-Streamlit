@@ -1,2 +1,3 @@
-# recommendation-anime-streamlit
-Anime recommendation 
+# Anime Recommendation
+
+A recommender system for animes.
