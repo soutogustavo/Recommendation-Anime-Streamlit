@@ -35,4 +35,10 @@ docker run -d -p 8501:8501 recommendation-anime-streamlit
 ## Dashboard
 
 You can also check the recommendation for each user at the Streamlit Dashboard:
+
+> [!CAUTION]
+> Unfortunately, the section **Anime Search** is not working because the dataset is too large and GitHub does not allow large files. 
+
 ![image](https://github.com/soutogustavo/Recommendation-Anime-Streamlit/assets/9319823/bf08dea7-d592-4457-b6ba-cf32c0ee820a)
+
+
